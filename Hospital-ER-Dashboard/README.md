@@ -35,4 +35,4 @@ An interactive Power BI dashboard designed to analyze and monitor the performanc
 
   ## 📥 Download the Report
 
-➡ [Click here to download the Power BI report (.pbix)](./Report/Hospital_ER_Report.pbix)
+➡ [Click here to download the Power BI report (.pbix)](./Report/Hospital ER Report.pbix)
